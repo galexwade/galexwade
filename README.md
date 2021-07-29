@@ -3,7 +3,7 @@
 ## I'm a Gamer, Gym Rat, and a Developer!
 - 🎓 I'm a graduate from Texas State University with my B.S. in Digital Media Innovation
 - 🎒 I'm currently a student at a Full Stack Web Development Bootcamp
-- 🌱 I'm currently learning JavaScript and React
+- 🌱 I'm currently learning React and NodeJS
 - 👯 I'm looking to collaborate with other Developers
 - 💻 2021 Goals: Contribute more to Open Source projects and land my first Developer job
 - ⚡ Fun Fact: I used to play Collegiate Basketball!
