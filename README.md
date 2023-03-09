@@ -10,14 +10,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/galexwade/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/galexwade/azure-network-protocols)
 
-### 🤳Connect with me:
-
-[<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alex | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
-
-
-[linkedin]: https://linkedin.com/in/alexwade25
-[email]: galexwadejr@yahoo.com
 
 
 ### 💻 Languages and Tools:
@@ -37,4 +29,14 @@
 ### 📈 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=galexwade&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galexwade&theme=tokyonight)
+
+### 🤳Connect with me:
+
+[<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alex | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+
+
+[linkedin]: https://linkedin.com/in/alexwade25
+[email]: galexwadejr@yahoo.com
+
 
