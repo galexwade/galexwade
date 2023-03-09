@@ -1,11 +1,14 @@
-### Hi there, I'm Alex 👋
+<h1>Hi, I'm Alex, an <a href="https://linkedin.com/in/alexwade25">IT Professional</a>👋</h1>
 
-## I'm a Gamer, Gym Rat, and a Developer!
-- 🎓 I'm a graduate from Texas State University with my B.S. in Digital Media Innovation
-- 💻 I'm currently working at Infosys as an Associate 
-- 🌱 I'm currently learning Java and Selenium
-- 👯 I'm looking to collaborate with other Developers
-- ⚡ Fun Fact: I used to play Collegiate Basketball!
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols
 
 ### Connect with me:
  <a href="https://linkedin.com/in/alexwade25" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
@@ -23,6 +26,7 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
+	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" title="Azure" /></code>
 </p>
 
 ### GitHub Stats:
