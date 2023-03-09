@@ -20,7 +20,7 @@
 [email]: galexwadejr@yahoo.com
 
 
-###💻 Languages and Tools:
+### 💻 Languages and Tools:
 <p align="left">
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
@@ -34,7 +34,7 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" title="Azure" /></code>
 </p>
 
-###📈 GitHub Stats:
+### 📈 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=galexwade&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galexwade&theme=tokyonight)
 
