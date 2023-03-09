@@ -26,10 +26,6 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" title="Azure" /></code>
 </p>
 
-### 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=galexwade&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galexwade&theme=tokyonight)
-
 ### 🤳Connect with me:
 
 [<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
