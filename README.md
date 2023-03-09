@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/galexwade/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/galexwade/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/galexwade/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/galexwade/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/galexwade/azure-network-protocols)
 
 ### Connect with me:
  <a href="https://linkedin.com/in/alexwade25" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
